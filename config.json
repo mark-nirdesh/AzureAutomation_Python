@@ -1,0 +1,8 @@
+{
+    "email_password": "Your_One_drvive_password",
+    "matrix_homeserver_url": "https://matrix-client.matrix.org",
+    "matrix_access_token": "your_matrix-access_token",
+    "matrix_room_id": "!your_room-id:matrix.org"
+    
+    
+}
