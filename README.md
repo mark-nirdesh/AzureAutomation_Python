@@ -73,9 +73,6 @@ This project automates the process of downloading an Excel timesheet file from O
 - **Dynamic Scheduling**: Allow dynamic changes to the schedule via an HTTP trigger or configuration updates.
 - **Logging and Monitoring**: Integrate with Application Insights for more detailed logging and telemetry data.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Contributions
 
