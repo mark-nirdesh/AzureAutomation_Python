@@ -21,6 +21,12 @@ This project automates the process of downloading an Excel timesheet file from O
 - **SMTP (smtplib)**: For sending emails through Outlook.
 - **Matrix API**: For sending notifications to a Matrix room.
 - **MSAL (Microsoft Authentication Library)**: For authenticating and acquiring access tokens to access OneDrive.
+  ![image](https://github.com/user-attachments/assets/9c630b0f-1e97-47d1-a603-96c8082f6ae4)
+  ![image](https://github.com/user-attachments/assets/5048c020-bab9-4bb3-8e02-4838d81edd53)
+
+  ![image](https://github.com/user-attachments/assets/aa420ada-82b6-4025-b97e-b3fbd08401be)
+
+
 
 ## Project Structure
 
