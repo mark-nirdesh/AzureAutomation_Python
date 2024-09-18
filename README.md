@@ -41,7 +41,7 @@ This project automates the process of downloading an Excel timesheet file from O
 
 1. **Clone the Repository**:
    ```bash
-   git clone [https://github.com/mark-nirdesh/AzureAutomation_Python.git]
+   git clone https://github.com/mark-nirdesh/AzureAutomation_Python.git
    ```
    
 2. **Configure Environment**:
