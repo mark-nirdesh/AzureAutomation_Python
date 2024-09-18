@@ -33,8 +33,7 @@ This project automates the process of downloading an Excel timesheet file from O
 - **function_app.py**: Main Python script containing the Azure Function logic.
 - **config.json**: Configuration file storing sensitive information like email credentials and Matrix API tokens (ensure this is secured and not exposed publicly).
 - **requirements.txt**: List of dependencies required to run the function on Azure.
-![image](https://github.com/user-attachments/assets/76ce9abf-8713-415a-a0d6-65ea7ec6283a)
-Screenshot: Trigger(based on CRON jobs), Function(send email), output code is in function.
+![Screenshot: Trigger(based on CRON jobs), Function(send email), output code is in function.](https://github.com/user-attachments/assets/76ce9abf-8713-415a-a0d6-65ea7ec6283a)
 
 ## Setup and Deployment
 
